@@ -1,4 +1,4 @@
-# Monte Carlo Portfolio Simulation
+# Monte Carlo Simulation for a Multi-Asset Portfolio
 
 This project models the future value of a multi-asset investment portfolio using Monte Carlo methods based on Geometric Brownian Motion (GBM). It simulates thousands of potential return paths under uncertainty, enabling robust portfolio-level risk analysis and performance evaluation.
 
